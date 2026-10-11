@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Trained artifacts (regenerate with `python train.py`)
+artifacts/
+
+# Local data
+*.db
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
